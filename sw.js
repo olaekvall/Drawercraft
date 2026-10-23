@@ -1,4 +1,4 @@
-const CACHE = 'drawercraft-offline-v3-5';
+const CACHE = 'drawercraft-offline-v3-5-release';
 const APP_SHELL = ['./', './index.html', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png', './icons/icon-maskable-512.png'];
 self.addEventListener('install', event => {
   event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(APP_SHELL)).then(() => self.skipWaiting()));
