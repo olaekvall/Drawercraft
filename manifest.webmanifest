@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "DrawerCraft - Drawer & Sheet Calculator",
+  "short_name": "DrawerCraft",
+  "description": "Calculate drawer dimensions, create cut lists, and optimize sheet layouts offline.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f6f0",
+  "theme_color": "#122a23",
+  "orientation": "any",
+  "icons": [
+    {"src":"./icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"./icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"},
+    {"src":"./icons/icon-maskable-512.png","sizes":"512x512","type":"image/png","purpose":"maskable"}
+  ]
+}
