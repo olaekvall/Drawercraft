@@ -1,3 +1,1 @@
-DrawerCraft v3.3 PWA UPDATE
-Upload all extracted files to the root of your public GitHub repository. Replace index.html and sw.js; keep manifest and icons.
-Advanced joinery worksheets are supplementary and do not change saved project cut lists. No manufacturer-specific undermount cut geometry is pre-approved. Backup your projects before changes.
+DrawerCraft 3.4 GitHub Pages update. Upload extracted contents to the root of Drawercraft repository. Backup projects first. Saved drawers preserve previous cuts until edited and updated. Grooved-bottom and provisional dovetail blanks now flow into combined cut lists and layouts; drawer fronts optional. Undermount notches remain model-dependent annotations.
